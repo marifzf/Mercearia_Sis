@@ -39,3 +39,12 @@ Este é um sistema de automação comercial desenvolvido em **linguagem C**. O p
 
 ## 📸 Demonstração
 <img width="981" height="246" alt="image" src="https://github.com/user-attachments/assets/d725d394-563c-4afb-8c4a-ae6c9300bed0" />
+
+## 👩‍💻 Autor  
+
+<div align="center">
+
+Feito por **Mariana Fonseca**  
+🎓 Estudante de **Engenharia de Software**
+
+</div
